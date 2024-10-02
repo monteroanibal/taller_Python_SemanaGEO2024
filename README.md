@@ -1,1 +1,0 @@
-# taller_Python_SemanaGEO2024
